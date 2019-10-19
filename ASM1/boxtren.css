@@ -1,0 +1,52 @@
+	.box2{
+		width:100v;
+		height:60px;
+		background:#121c38;}
+	.box3{
+			width:300px;
+			height:50px;
+			background: #FF6500;
+			background-image: url("4.jpg");
+			background-size: 110% 110%;
+			position: relative;
+			top:5px;
+			left:50px;
+			border-radius: 15px;
+		}
+	.box4{
+			height:50px;
+			width:50px;
+			position: relative;
+			left:1150px;
+		}
+		.box5 a{
+			height:50px;
+			width:50px;
+			position:absolute;
+			left:60px;
+			top:0;
+		}
+		.box6 a{
+			height:50px;
+			width:50px;
+			position:absolute;
+			left:120px;
+		}
+		.box7{
+			width:380px;
+			height:152.6px;
+			position: absolute;
+			top:60px;
+			background-image: url("1.jpg");
+			background-size: 100% 100%;
+		}
+		.box9{
+			width:380px;
+			height:152.6px;
+			position: absolute;
+			top:60px;
+			left:1153px;
+			background-image: url("2.jpg");
+			background-size: 100% 100%;
+}
+
